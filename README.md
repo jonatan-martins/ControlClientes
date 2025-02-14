@@ -35,6 +35,4 @@ URL al curso: https://www.udemy.com/course/universidad-java-especialista-en-java
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-_(Se ha utilizado la inteligencia artificial para redactar este README.md)_
    
